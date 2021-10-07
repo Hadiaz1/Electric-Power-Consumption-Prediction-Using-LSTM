@@ -1,4 +1,4 @@
-# Power-Consumption-Prediction-Using-LSTM-
+# Power-Consumption-Prediction-Using-LSTM
 
 Problem Framing :
 Given the recent power consumption of a household, what is the expected consumption for the week ahead taking into consideration the impact of different climatic changes and months on the toll.
